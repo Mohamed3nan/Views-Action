@@ -25,10 +25,10 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
-[![Image of https://github.com/mohamed3nan/github-profile-views-counter-action](https://github.com/mohamed3nan/github-profile-views-counter-action/blob/master/svg/profile/badge.svg)](https://github.com/mohamed3nan/github-profile-views-counter-action)
+[![Image of https://github.com/mohamed3nan/Views-Action](https://github.com/mohamed3nan/Views-Action/blob/master/svg/profile/badge.svg)](https://github.com/mohamed3nan/Views-Action)
 
 ```readme
-[![Image of https://github.com/mohamed3nan/github-profile-views-counter-action](https://github.com/mohamed3nan/github-profile-views-counter-action/blob/master/svg/profile/badge.svg)](https://github.com/mohamed3nan/github-profile-views-counter-action)
+[![Image of https://github.com/mohamed3nan/Views-Action](https://github.com/mohamed3nan/Views-Action/blob/master/svg/profile/badge.svg)](https://github.com/mohamed3nan/Views-Action)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
