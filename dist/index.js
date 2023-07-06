@@ -15648,7 +15648,7 @@ let commitGit = function () {
         core.info(`Git Commit ${message}`)
         try {
             // await git.commit(INSIGHT_BOT_USERNAME, INSIGHT_BOT_EMAIL, message);
-            await git.commit('formidablae', '81068781+formidablae@users.noreply.github.com', message);
+            await git.commit('mohamed3nan', '19733801+Mohamed3nan@users.noreply.github.com', message);
         } catch (error) {
             core.info(error);
         }
